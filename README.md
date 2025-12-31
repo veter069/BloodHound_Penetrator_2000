@@ -20,7 +20,7 @@ source .venv/bin/activate
 pip install neo4j jinja2 python-dotenv
 ```
 
-3) Структура проекта (как удобно держать рядом с Obsidian)
+# 3) Структура проекта (как удобно держать рядом с Obsidian)
 ```bash
 BloodHound_Penetrator_2000/
   generator.py
