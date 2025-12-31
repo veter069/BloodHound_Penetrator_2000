@@ -38,3 +38,10 @@ NEO4J_PASS=your_password
 OBSIDIAN_OUT=./output
 VAULT_LINK_PREFIX=
 ```
+
+# 4) Результат работы
+### Ход работы скрипта 
+![Ход работы скрипта](Images/Python.png)
+
+### Результат в Obsidian DataView
+![Результат в Obsidian DataView](Images/Obsidian_dataview.png)
